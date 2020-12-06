@@ -1,0 +1,27 @@
+<templateSet group="Kotlin">
+  <template name="=&gt;" value="-&gt; " shortcut="SPACE" description="Creates a lamda" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="In" value="Int" shortcut="SPACE" description="Inserts Int" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="St" value="String" shortcut="SPACE" description="Inserts String" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="ld" value="{ $END$   -&gt;  } " shortcut="SPACE" description="Creates a lamda expression" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="L" value="println(&quot;$SELECTION$ ${$SELECTION$}&quot;)&#10;" shortcut="TAB" description="Surrounds with println" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
