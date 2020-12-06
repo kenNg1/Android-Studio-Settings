@@ -4,4 +4,9 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="pushNamed" value="Navigator.of(context).pushNamed(route$END$);" description="Inserts push named" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
