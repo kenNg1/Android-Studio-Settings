@@ -178,5 +178,9 @@
       <action id="SaveAll" />
       <action id="EditorLineEnd" />
     </macro>
+    <macro name="Flutter Save and Hot Restart All">
+      <action id="SaveAll" />
+      <action id="Flutter.Toolbar.RestartAllAction" />
+    </macro>
   </component>
 </application>
