@@ -179,9 +179,9 @@
   <action id="Flutter.JumpToSource">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
-  <action id="Flutter.Toolbar.ReloadAction" />
-  <action id="Flutter.Toolbar.RestartAction" />
-  <action id="Flutter.Toolbar.RestartAllAction" />
+  <action id="Flutter.Toolbar.RestartAction">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -242,9 +242,6 @@
   </action>
   <action id="Macro.Find widget implementation">
     <keyboard-shortcut first-keystroke="f20" />
-  </action>
-  <action id="Macro.Flutter Save and Hot Restart All">
-    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="Macro.Line End - Matching Brace">
     <keyboard-shortcut first-keystroke="meta end" />
