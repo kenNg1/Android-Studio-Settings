@@ -1,8 +1,0 @@
-<templateSet group="JavaScript">
-  <template name="ac" value="action.payload.$END$" description="JS/TS - Inserts action.payload" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TS_STATEMENT" value="true" />
-    </context>
-  </template>
-</templateSet>
