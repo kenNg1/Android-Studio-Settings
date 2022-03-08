@@ -1,0 +1,20 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Default Changelist" />
+    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="!*.g.dart, *.dart, !*.freezed.dart,!*.json" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.dart,.</mask>
+    <mask>*.dart</mask>
+    <mask>*.dart, !*.freezed.dart</mask>
+    <mask>!*.g.dart, *.dart, !*.freezed.dart</mask>
+    <mask>!*.g.dart, *.dart, !*.freezed.dart, *.json</mask>
+    <mask>!*.g.dart, *.dart, !*.freezed.dart,!*.json</mask>
+  </component>
+</application>
