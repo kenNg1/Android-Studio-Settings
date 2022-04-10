@@ -3,7 +3,7 @@
     <property name="created">2022-03-31T16:02:17</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.22</property>
-    <property name="modified">2022-04-01T23:13:32</property>
+    <property name="modified">2022-04-10T16:13:16</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -67,6 +67,19 @@
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="5c6370" />
   </colors>
   <attributes>
+    <option name="!_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ff8c00" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="*_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="868686" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -1501,6 +1514,16 @@
     <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
       <value>
         <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="NOTE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="959595" />
+      </value>
+    </option>
+    <option name="NOTE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="3acb20" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
