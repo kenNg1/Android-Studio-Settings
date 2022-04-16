@@ -10,5 +10,6 @@
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
   </component>
 </application>
