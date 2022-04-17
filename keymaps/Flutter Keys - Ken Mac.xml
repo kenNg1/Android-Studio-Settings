@@ -14,6 +14,7 @@
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateServicesToolWindow" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Alias.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
@@ -173,6 +174,7 @@
     <keyboard-shortcut first-keystroke="shift up" />
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
+  <action id="Exit" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
   </action>
@@ -329,9 +331,12 @@
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
-    <mouse-shortcut keystroke="control button2" />
     <mouse-shortcut keystroke="alt button1" />
     <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="meta q" />
+  </action>
+  <action id="QuickTypeDefinition">
+    <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="f6" />
