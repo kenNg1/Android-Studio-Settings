@@ -10,11 +10,19 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Alias.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
@@ -70,6 +78,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="meta j" />
@@ -184,6 +193,7 @@
   <action id="ExportToTextFile" />
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
   <action id="Flutter.JumpToSource">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
