@@ -1,8 +1,11 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Accepted language levels" displayType="STICKY_BALLOON" shouldReadAloud="true" playSound="true" />
     <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Flutter Run" displayType="TOOL_WINDOW" shouldLog="false" shouldReadAloud="true" playSound="true" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="NONE" />
+    <notification groupId="Run Anything" shouldReadAloud="true" playSound="true" />
   </component>
 </application>
