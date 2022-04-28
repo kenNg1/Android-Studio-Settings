@@ -4,13 +4,14 @@
       <mapping pattern="android_native_text_field" type="AUTO_DETECTED" />
       <mapping pattern="BMIActivity" type="AUTO_DETECTED" />
       <mapping ext="plist" type="AUTO_DETECTED" />
+      <mapping pattern="amplify_service.dart" type="Dart" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".which-env.txt" type="PLAIN_TEXT" />
       <mapping pattern=".which-env" type="PLAIN_TEXT" />
       <mapping pattern=".svgrrc" type="PLAIN_TEXT" />
-      <mapping pattern="V2__create_shipwreck.sql" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".which-env.txt" type="PLAIN_TEXT" />
+      <mapping pattern="V2__create_shipwreck.sql" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="V2__create_shipwreck" type="SQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
