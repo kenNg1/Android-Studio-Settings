@@ -34,6 +34,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="CIDR.Debugger.ShowInMemoryView" />
   <action id="ChangesView.Move" />
   <action id="ChangesView.ShelveSilently" />
   <action id="CheckinProject">
@@ -73,6 +74,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
@@ -297,6 +299,9 @@
   <action id="Macro.Select line from start">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
+  <action id="Macro.Show Diff (Current File)">
+    <keyboard-shortcut first-keystroke="shift meta space" />
+  </action>
   <action id="Macro.insert comma">
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
@@ -440,9 +445,7 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="Vcs.UpdateProject" />
-  <action id="ViewSource">
-    <keyboard-shortcut first-keystroke="shift meta space" />
-  </action>
+  <action id="ViewSource" />
   <action id="XDebugger.CopyWatch">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>

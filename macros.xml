@@ -178,5 +178,8 @@
       <action id="SaveAll" />
       <action id="EditorLineEnd" />
     </macro>
+    <macro name="Show Diff (Current File)">
+      <action id="Compare.SameVersion" />
+    </macro>
   </component>
 </application>
