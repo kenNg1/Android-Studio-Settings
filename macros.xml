@@ -120,64 +120,6 @@
       <typing text-keycode="84:0;79:0;80:0;32:0;77:0;65:0;67:0;82:0;79:0">top&amp;#x20;macro</typing>
       <shortuct text="ENTER" />
     </macro>
-    <macro name="DEL prev prev word">
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorDeleteToWordStartInDifferentHumpsMode" />
-      <action id="EditorDeleteToWordStartInDifferentHumpsMode" />
-      <action id="EditorDeleteToWordStartInDifferentHumpsMode" />
-      <action id="Macro.Macro Flutter Hot reload all" />
-      <action id="SaveAll" />
-    </macro>
-    <macro name="DEL final">
-      <action id="EditorMatchBrace" />
-      <action id="EditorLeft" />
-      <action id="EditorMatchBrace" />
-      <action id="EditorLeft" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorCopy" />
-      <action id="ShowIntentionActions" />
-      <shortuct text="ENTER" />
-      <action id="EditorPaste" />
-      <typing text-keycode="61:0">=</typing>
-      <action id="EditorDelete" />
-      <action id="EditorBackSpace" />
-    </macro>
-    <macro name="DEL">
-      <action id="EditorMatchBrace" />
-      <action id="EditorLeft" />
-      <action id="EditorMatchBrace" />
-      <action id="EditorLeft" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorCopy" />
-      <action id="ShowIntentionActions" />
-      <shortuct text="meta SPACE" />
-      <action id="EditorPaste" />
-      <typing text-keycode="61:0">=</typing>
-      <action id="EditorBackSpace" />
-      <action id="EditorLineEnd" />
-      <action id="Macro.Macro Flutter Hot reload all" />
-      <action id="SaveAll" />
-    </macro>
-    <macro name="DEL F">
-      <action id="EditorMatchBrace" />
-      <action id="EditorEnter" />
-      <action id="EditorUp" />
-      <action id="EditorLineEnd" />
-      <action id="EditorMatchBrace" />
-      <action id="EditorLeft" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorCopy" />
-      <action id="EditorEnter" />
-      <action id="EditorDeleteLine" />
-      <action id="EditorPaste" />
-      <typing text-keycode="61:0">=</typing>
-      <action id="EditorBackSpace" />
-      <action id="Macro.Macro Flutter Hot reload all" />
-      <action id="SaveAll" />
-      <action id="EditorLineEnd" />
-    </macro>
     <macro name="Show Diff (Current File)">
       <action id="Compare.SameVersion" />
     </macro>
