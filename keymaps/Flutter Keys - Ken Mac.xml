@@ -130,6 +130,7 @@
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="clear" />
   </action>
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="shift escape" />
