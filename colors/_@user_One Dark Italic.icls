@@ -3,7 +3,7 @@
     <property name="created">2022-05-02T13:23:05</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2022-05-02T13:41:30</property>
+    <property name="modified">2022-05-02T23:31:25</property>
     <property name="originalScheme">One Dark Italic</property>
   </metaInfo>
   <colors>
@@ -69,7 +69,7 @@
   <attributes>
     <option name="*_COMMENT">
       <value>
-        <option name="FOREGROUND" value="c2c2b9" />
+        <option name="FOREGROUND" value="909090" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
