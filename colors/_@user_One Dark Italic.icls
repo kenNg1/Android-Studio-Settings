@@ -3,7 +3,7 @@
     <property name="created">2022-05-02T13:23:05</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2022-05-02T23:31:25</property>
+    <property name="modified">2022-05-03T02:16:31</property>
     <property name="originalScheme">One Dark Italic</property>
   </metaInfo>
   <colors>
@@ -67,6 +67,11 @@
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="5c6370" />
   </colors>
   <attributes>
+    <option name="!_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ff8c00" />
+      </value>
+    </option>
     <option name="*_COMMENT">
       <value>
         <option name="FOREGROUND" value="909090" />
