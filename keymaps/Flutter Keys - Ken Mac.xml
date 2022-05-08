@@ -18,6 +18,9 @@
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
@@ -80,6 +83,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
@@ -195,6 +199,7 @@
   </action>
   <action id="ExportToTextFile" />
   <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="Flutter.JumpToSource">
@@ -351,7 +356,6 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="f6" />
   </action>
-  <action id="RecentLocations" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
@@ -389,7 +393,7 @@
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="shift meta e" />
+    <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
