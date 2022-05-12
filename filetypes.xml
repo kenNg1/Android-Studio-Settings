@@ -14,7 +14,7 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="V2__create_shipwreck" type="SQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="pro" type="DeviceSpecFile" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
       <mapping pattern="V2__create_shipwreck" type="SQL" />
