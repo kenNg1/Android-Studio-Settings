@@ -1,0 +1,14 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="2048" />
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+  </component>
+</application>

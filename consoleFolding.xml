@@ -1,0 +1,10 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="GraphQL query operation succeeded with response :" />
+        <option value="E/ActivityThread(12238): Failed to find provider info for com.google.android.apps.docs.editors.kix.editors.clipboard" />
+      </list>
+    </option>
+  </component>
+</application>
