@@ -123,5 +123,6 @@
     <macro name="Show Diff (Current File)">
       <action id="Compare.SameVersion" />
     </macro>
+    <macro name="fold-first" />
   </component>
 </application>
