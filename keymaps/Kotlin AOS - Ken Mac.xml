@@ -303,11 +303,17 @@
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="NewScratchFile" />
-  <action id="NextDiff" />
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="meta period" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
   <action id="OverrideMethods" />
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="meta comma" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
