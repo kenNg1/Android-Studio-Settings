@@ -124,5 +124,9 @@
       <action id="Compare.SameVersion" />
     </macro>
     <macro name="fold-first" />
+    <macro name="Flutter web reformat and reload">
+      <action id="ReformatCode" />
+      <action id="Flutter.Toolbar.RestartAction" />
+    </macro>
   </component>
 </application>
