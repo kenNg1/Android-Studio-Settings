@@ -1,4 +1,9 @@
 <code_scheme name="Default" version="173">
+  <option name="DO_NOT_FORMAT">
+    <list>
+      <fileSet type="globPattern" pattern="*.json" />
+    </list>
+  </option>
   <DBN-PSQL>
     <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
