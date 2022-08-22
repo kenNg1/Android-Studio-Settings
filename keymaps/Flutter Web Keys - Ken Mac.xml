@@ -285,11 +285,11 @@
   <action id="Macro.Find widget implementation">
     <keyboard-shortcut first-keystroke="f20" />
   </action>
-  <action id="Macro.Flutter web reformat and reload">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="Macro.Line End - Matching Brace">
     <keyboard-shortcut first-keystroke="meta end" />
+  </action>
+  <action id="Macro.Macro Flutter Hot reload all">
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="Macro.Matching Brace - Line Start">
     <keyboard-shortcut first-keystroke="meta home" />
