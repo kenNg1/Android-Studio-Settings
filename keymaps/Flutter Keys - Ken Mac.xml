@@ -235,6 +235,10 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta q" />
+  </action>
   <action id="GotoLine" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
