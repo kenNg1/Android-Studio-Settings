@@ -26,6 +26,7 @@
     <keyboard-shortcut first-keystroke="meta 7" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="Android.CleanRun" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Alias.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
@@ -202,6 +203,13 @@
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FindNext" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="Flutter.JumpToSource">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
@@ -225,6 +233,8 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="meta f13" />
   </action>
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
   <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -307,6 +317,7 @@
   <action id="Macro.insert comma">
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
+  <action id="Majera.CodeReview.Bitbucket.RefreshPullRequests" />
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -367,6 +378,7 @@
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
   <action id="ReformatCode" />
+  <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
@@ -376,6 +388,7 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="Replace" />
   <action id="ResourceExplorer.show" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
@@ -429,6 +442,7 @@
     <keyboard-shortcut first-keystroke="meta f16" />
   </action>
   <action id="StepInto" />
+  <action id="Svn.RefreshWorkingCopies" />
   <action id="SwitcherIterateItems">
     <keyboard-shortcut first-keystroke="f6" />
   </action>
@@ -450,6 +464,7 @@
   <action id="Vcs.Log.MatchCaseAction">
     <keyboard-shortcut first-keystroke="caps_lock" second-keystroke="caps_lock" />
   </action>
+  <action id="Vcs.Log.Refresh" />
   <action id="Vcs.Log.ShowTooltip">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="alt button1" />
