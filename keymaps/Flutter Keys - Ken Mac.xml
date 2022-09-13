@@ -10,14 +10,19 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="ActivateBitbucketPullRequestsToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateProblemsViewToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
@@ -25,6 +30,9 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
     <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="Android.CleanRun" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
