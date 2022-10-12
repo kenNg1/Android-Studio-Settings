@@ -1,0 +1,24 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="!*.freezed.dart, !*.g.dart, *.dart, *.json, *.strings" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.dart,.</mask>
+    <mask>*.dart</mask>
+    <mask>*.dart, !*.freezed.dart</mask>
+    <mask>!*.g.dart, *.dart, !*.freezed.dart</mask>
+    <mask>!*.g.dart, *.dart, !*.freezed.dart, *.json</mask>
+    <mask>!*.g.dart, *.dart, !*.freezed.dart,!*.json</mask>
+    <mask>*.swift, *.json</mask>
+    <mask>*.swift, *.json, *.strings</mask>
+    <mask>*.dart, *.json, *.strings</mask>
+    <mask>!*.freezed.dart, !*.g.dart, *.dart, *.json, *.strings</mask>
+  </component>
+</application>
